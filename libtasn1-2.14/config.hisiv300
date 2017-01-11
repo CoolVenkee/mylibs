@@ -1,0 +1,2 @@
+#!/bin/bash
+./configure --host=arm-hisiv300-linux-uclibcgnueabi --prefix=$PWD/hisiv300 --enable-shared=no
